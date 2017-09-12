@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503426030 source:/home/molokdmy/Programs/Max/main.cpp
+	<iostream>
+	<cmath>
+

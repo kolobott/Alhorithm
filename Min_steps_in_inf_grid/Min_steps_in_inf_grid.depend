@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504104930 source:/home/molokdmy/Programs/Min_steps_in_inf_grid/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504098748 source:/home/molokdmy/Programs/Spiral array/main.cpp
+	<iostream>
+	<vector>
+
